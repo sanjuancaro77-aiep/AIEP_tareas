@@ -9,4 +9,4 @@ Ejecutar    : java AIEP_tarea.java
 Relaciona máquinas virtuales con ejecución de software, considerando lenguajes de
 programación.
 
-Importante  : considerando dispositivos móviles
+Importante  : considerando dispositivos móviles...
